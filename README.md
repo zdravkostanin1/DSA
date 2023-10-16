@@ -4,8 +4,9 @@
 - Improve my data structures knowledge
 - Store solutions to coding interview questions
 - Getting better at applying algorithms
+- Excel my Dart problem solving skills
 
 ## Getting started
 - choose an ide
 - clone this repo
-- run the solutions via terminal
+- run the solutions via the terminal
