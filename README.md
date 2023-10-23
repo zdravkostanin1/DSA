@@ -1,5 +1,8 @@
 ## Data Structures & Algorithms
 
+## Resources 🧑‍🏫
+- https://leetcode.com/studyplan/top-interview-150/
+
 ## Aim of this repository
 - Improve my data structures knowledge
 - Store solutions to coding interview questions
