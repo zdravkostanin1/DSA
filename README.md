@@ -2,6 +2,8 @@
 
 ## Resources 🧑‍🏫
 - https://leetcode.com/studyplan/top-interview-150/
+- https://neetcode.io/roadmap
+- https://neetcode.io/practice
 
 ## Aim of this repository
 - Improve my data structures knowledge
