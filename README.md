@@ -1,9 +1,15 @@
 ## Data Structures & Algorithms
 
 ## Resources 🧑‍🏫
+
+## PRACTICE PROBLEMS🦾
 - https://leetcode.com/studyplan/top-interview-150/
 - https://neetcode.io/roadmap
 - https://neetcode.io/practice
+- https://www.hackerrank.com
+
+## ROADMAPS / PREP KITS FOR INTERVIEWS 🤓
+- https://neetcode.io/roadmap
 - https://www.hackerrank.com/interview/preparation-kits
 
 ## Aim of this repository
